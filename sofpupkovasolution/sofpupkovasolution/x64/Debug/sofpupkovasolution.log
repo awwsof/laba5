@@ -1,0 +1,3 @@
+﻿  sofpupkovasolution.cpp
+C:\Users\admin\source\repos\sofpupkovasolution\sofpupkovasolution\sofpupkovasolution.cpp(103,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  sofpupkovasolution.vcxproj -> C:\Users\admin\source\repos\sofpupkovasolution\x64\Debug\sofpupkovasolution.exe
